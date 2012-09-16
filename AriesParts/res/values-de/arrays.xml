@@ -18,14 +18,14 @@
     </string-array>
 
     <string-array name="backlight_timeout_entries">
-        <item>Default (1.6 seconds)</item>
-        <item>0.5 seconds</item>
-        <item>2 seconds</item>
-        <item>5 seconds</item>
-        <item>10 seconds</item>
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>Never</item>
+        <item>Standard (1.6 Sekunden)</item>
+        <item>0.5 Sekunden</item>
+        <item>2 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>15 Sekunden</item>
+        <item>30 Sekunden</item>
+        <item>Niemals</item>
     </string-array>
 
     <string-array name="backlight_timeout_entries_values" translatable="false">
