@@ -146,3 +146,5 @@ TARGET_RECOVERY_INITRC := device/samsung/ariesve/config/init.recovery.rc
 TARGET_PREBUILT_KERNEL := device/samsung/ariesve/prebuilt/zImage
 
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/usb_mass_storage/lun%d/file
+
+TARGET_KERNEL_CONFIG := ariesve_defconfig
